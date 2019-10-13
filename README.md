@@ -11,3 +11,6 @@ hello again
 once again
 hmm again
 hai
+hello
+how 
+are you
